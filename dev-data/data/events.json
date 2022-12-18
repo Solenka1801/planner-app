@@ -1,0 +1,41 @@
+[
+  {
+    "id": 1,
+    "description": "Obtaining information from clients and making travel arrangements as per their specifications",
+    "dayOfWeek": "monday",
+    "createdAt": "2022-11-10T14:43:43.450Z"
+  },
+  {
+    "id": 2,
+    "description": "Designing cost-effective travel packages that suit clients’ needs and budgets",
+    "dayOfWeek": "tuesday",
+    "createdAt": "2022-11-11T14:44:43.450Z"
+  },
+  {
+    "id": 3,
+    "description": "Booking excursions, flights, and hotels, as well as arranging transport according to client specifications",
+    "dayOfWeek": "monday",
+    "createdAt": "2022-11-12T14:41:43.450Z"
+  },
+  {
+    "id": 4,
+    "description": "Conducting research, which may include visiting hotels, resorts, and restaurants",
+    "dayOfWeek": "friday",
+    "createdAt": "2022-11-10T14:40:43.450Z"
+  },
+  {
+    "id": 5,
+    "description": "Consult clients on the efficacy of political policies, products or services",
+    "dayOfWeek": "friday"
+  },
+  {
+    "id": 6,
+    "description": "Communicate data in the form of presentations, technical reports and non-technical reports",
+    "dayOfWeek": "friday"
+  },
+  {
+    "id": 7,
+    "description": "Develop statistical and econometric models for economic forecasting",
+    "dayOfWeek": "friday"
+  }
+]
