@@ -26,8 +26,13 @@ This project tries to solve the request of a planner that will help clients to o
 
 ## Deployment using RailWay
 
-Service domain link
-planner-app-production.up.railway.app
+Service domain link:
+'planner-app-production.up.railway.app'
++/api/v1/users/signUp
++/api/v1/users/logIn
++/api/v1/events
++/api/v1/events/id
++/api/v1/users/dayOfWeek
 
 ## License
 
